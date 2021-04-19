@@ -136,3 +136,6 @@ TBD
 
 * Currently, there is no GPU support docker containers (or docker compose)
 * First epoch only can be slow (6x - 8x slower)
+
+# Gill
+*aaaahhhh
